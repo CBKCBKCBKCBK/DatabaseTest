@@ -1,0 +1,6 @@
+本專案用Eclipse EE+Tomcat 9.0+MySQL做成
+請重新設定專案裡的jre libray與Tomcat
+並修改tw.com.pcschool.config裡的DBUtils
+defSchema為使用的資料庫名
+dbUser為資料庫帳號
+dbPass為資料庫密碼
